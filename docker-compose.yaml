@@ -207,7 +207,7 @@ services:
           --username admin \
           --password admin \
           --firstname admin \
-          --lastname majji \
+          --lastname admin \
           --role Admin \
           --email ${ADMIN_EMAIL}
     # yamllint enable rule:line-length
