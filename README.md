@@ -175,8 +175,6 @@ The project is designed for cloud deployment using Azure as the cloud provider, 
 
 The RAG chatbot backend is hosted on Azure Web App, utilizing its managed infrastructure to expose RESTful endpoints for seamless interaction with the Retrieval-Augmented Generation (RAG) model. The user interface, created using Streamlit, provides an intuitive platform for users to interact with the chatbot and visualize responses.
 
-The web version of the application is deployed at [#](#). This includes an option to connect to the ASKRC bot for real-time interactions.
-
 The solution integrates with Azure Blob Storage, where preprocessed data files are securely stored, and Azure Cognitive Search, which indexes these files to enable efficient and precise information retrieval during chatbot interactions. This architecture ensures high performance, scalability, and ease of management for both the backend services and the user interface.
 
 ![Alt text](assets/UI.png)
